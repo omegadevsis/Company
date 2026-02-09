@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <Folder Include="EventStore\" />
-      <Folder Include="Persistence\" />
       <Folder Include="Repositories\" />
     </ItemGroup>
 
