@@ -3,4 +3,5 @@
   <Project Path="Company.Domain/Company.Domain.csproj" />
   <Project Path="Company.Infrastructure/Company.Infrastructure.csproj" />
   <Project Path="Company.Presentation/Company.Presentation.csproj" />
+  <Project Path="Company.Tests/Company.Tests.csproj" />
 </Solution>

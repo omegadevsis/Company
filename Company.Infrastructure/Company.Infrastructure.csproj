@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="EventStore\" />
       <Folder Include="Repositories\" />
     </ItemGroup>
 
